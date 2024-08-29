@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://tiriolp.github.io/sitemap/sitemap.txt
